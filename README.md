@@ -2,7 +2,7 @@
 
 Modern, minimalist portfolio website for Azure Cloud Engineer, DevOps Engineer & FinOps Consultant.
 
-🔗 **Live Site:** https://kumam.github.io
+🔗 **Live Site:** https://kumammanish.github.io
 
 ##  About
 
