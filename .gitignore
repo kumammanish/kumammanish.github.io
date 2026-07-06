@@ -26,6 +26,12 @@ $RECYCLE.BIN/
 *.bak
 *~
 
+#CLAUDE
+CLAUDE.md
+.claude/
+.agents/
+skills-lock.json
+
 # Temporary files
 *.tmp
 *.temp
