@@ -1,12 +1,12 @@
 # Manish Kumar - Portfolio Website
 
-Modern, minimalist portfolio website for Azure Cloud Engineer, DevOps Engineer & FinOps Consultant.
+Modern, minimalist portfolio website for Azure Cloud Architect, DevOps Engineer & FinOps Consultant.
 
 🔗 **Live Site:** https://kumammanish.github.io
 
 ##  About
 
-Azure Cloud Engineer and FinOps Consultant with 12+ years of experience in cloud infrastructure management, DevOps automation, and enterprise cloud consulting. Specialized in achieving 20-30% cost optimization through FinOps strategies and improving system reliability through AI-powered automation.
+Azure Cloud Architect and FinOps Consultant with 14+ years of experience in cloud infrastructure management, DevOps automation, and enterprise cloud consulting. Specialized in achieving 20-30% cost optimization through FinOps strategies and improving system reliability through AI-powered automation.
 
 Currently based in Amsterdam, Netherlands, working as Senior DevOps Engineer and FinOps Consultant.
 
@@ -32,7 +32,7 @@ Currently based in Amsterdam, Netherlands, working as Senior DevOps Engineer and
 ##  Structure
 
 ```
-kumam.github.io/
+kumammanish.github.io/
 ├── index.html              # Main portfolio page
 ├── README.md              # This file
 ├── .gitignore             # Git ignore file
@@ -173,7 +173,7 @@ Add Google Analytics by inserting before `</head>`:
 </script>
 ```
 
-## � License
+## 📄 License
 
 Free to use for personal portfolios. No attribution required.
 
@@ -198,6 +198,6 @@ Questions or collaboration opportunities? Reach out at kumam.manish@gmail.com
 
 ---
 
-** Azure Cloud Engineer | DevOps Engineer | Azure FinOps Consultant**
+** Azure Cloud Architect | DevOps Engineer | Azure FinOps Consultant**
 
-Built with ❤️ | Hosted on GitHub Pages | Last updated: October 2025
+Built with ❤️ | Hosted on GitHub Pages | Last updated: August 2026
